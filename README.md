@@ -1,4 +1,5 @@
 # Magento 2 City Dropdown
+Compatible with Magento 2.4.6 and PHP 8.2
 
 - City Dropdown for Magento 2 was created to allow users / merchants to include cities and region / state / province as a dropdown in the checkout process, but more recently when you save a new address, this option is also found there.
 - With this you can import the cities of each region and you can use them as a dropdown in different processes (checkout, new address etc).
